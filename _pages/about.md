@@ -1,14 +1,12 @@
 ---
 permalink: /
-title: "About me"
+title: "Xinyu He's Homepage"
 excerpt: "About me"
-author_profile: true
+author_profile: false
 redirect_from: 
   - /about/
   - /about.html
 ---
-   I am currently an business analyst in the Safety and Security Department, Societe Generale Head Office, Fuzhou, China. I received my  master's degree in 2022 from Xiamen University. I am also the member of Key Laboratory of Underwater AcousticCommunication and Marine InformationTechnology, Xiamen University. My email is hexinyu@cib.com.cn.
-
 A data-driven personal website
 ======
 Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
