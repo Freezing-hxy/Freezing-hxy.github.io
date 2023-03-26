@@ -41,6 +41,6 @@ Academic Papers
 </li>
 <!-- Item: FFT-DFISTA -->
 <li ><p>
-<bDrowning Detection Based on Video Anomaly Detection</b><br>
+<b>Drowning Detection Based on Video Anomaly Detection</b><br>
 
 <i>International Conference on Image and Graphics</i>, 2021.
