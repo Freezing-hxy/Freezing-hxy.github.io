@@ -22,8 +22,6 @@ Major Awards
 * Huawei Scholarship of Xiamen University, 2020.
 * National Second Prize and Best Paper Award of China Graduate Electronic Design Competition, 2020.
 
-Patents
-=====
 Academic Papers
 ======
 <b>1. A Video System Based on Convolutional Autoencoder for Drowning Detection</b><br>
