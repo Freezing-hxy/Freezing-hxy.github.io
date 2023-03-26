@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-&emsp; I am currently a business analyst and mainly engaged in anti-fraud work in the Security Department, Industrial Bank Head Office, Fuzhou, China. I am recommended for admission to Xiamen University in 2019 and received my master's degree in 2022. I am also the member of Key Laboratory of Underwater AcousticCommunication and Marine InformationTechnology, Xiamen University. My email is hexinyu@cib.com.cn.
+&emsp; I am currently a business analyst and mainly engaged in anti-fraud work in the Security Department, Industrial Bank Head Office, Fuzhou, China. I am recommended for admission to Xiamen University in 2019 and received my master's degree in 2022. I am also the member of Key Laboratory of Underwater AcousticCommunication and Marine InformationTechnology, Xiamen University.
 
 Research Interests
 ======
@@ -43,3 +43,7 @@ Patents
 <b>2. 游泳者溺水检测方法</b>, 2021.03.
   
 <b>3. 水下自拍系统</b>, 2020.09.
+<br>
+<br>
+<br>
+Email:hexinyu@cib.com.cn
