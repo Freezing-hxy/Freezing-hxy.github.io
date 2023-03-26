@@ -31,14 +31,14 @@ Academic Papers
  
 <i>Neural Computing and Applications</i>, 2022.
 
-</li>
+
 <!-- Item: FFT-DFISTA -->
 <li ><p>
 <b>A Video Drowning Detection Device Based on Underwater Computer Vision</b><br>
 
 <i>IET Image Processing</i>, 2022.
   
-</li>
+
 <!-- Item: FFT-DFISTA -->
 <li ><p>
 <b>Drowning Detection Based on Video Anomaly Detection</b><br>
