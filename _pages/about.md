@@ -46,4 +46,4 @@ Patents
 <br>
 <br>
 <br>
-Email:hexinyu@cib.com.cn
+Email: hexinyu@cib.com.cn
