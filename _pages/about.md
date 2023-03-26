@@ -44,3 +44,12 @@ Academic Papers
 <b>Drowning Detection Based on Video Anomaly Detection</b><br>
 
 <i>International Conference on Image and Graphics</i>, 2021.
+
+</ol>
+
+Patents
+======
+<ol class="biblist">
+<!-- Item: NGDME -->
+<li ><p>
+<b>基于无监督异常检测的溺水检测方法及装置</b><br>, 2022.
