@@ -11,7 +11,7 @@ redirect_from:
 
 Research Interests
 ======
-My research interests are mainly in anti fraud rule model, machine learning, image processing and anomaly detection.
+My research interests are mainly in anti-fraud rule model, machine learning, image processing and anomaly detection.
 
 Major Awards
 ======
