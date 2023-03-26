@@ -22,42 +22,26 @@ Major Awards
 * Huawei Scholarship of Xiamen University, 2020.
 * National Second Prize and Best Paper Award of China Graduate Electronic Design Competition, 2020.
 
+Patents
+=====
 Academic Papers
 ======
-<ol class="biblist">
-<!-- Item: NGDME -->
-<li ><p>
-<b>A Video System Based on Convolutional Autoencoder for Drowning Detection</b><br>
+<b>1. A Video System Based on Convolutional Autoencoder for Drowning Detection</b><br>
  
 <i>Neural Computing and Applications</i>, 2022.
 
-
-<!-- Item: FFT-DFISTA -->
-<li ><p>
-<b>A Video Drowning Detection Device Based on Underwater Computer Vision</b><br>
+<b>2. A Video Drowning Detection Device Based on Underwater Computer Vision</b><br>
 
 <i>IET Image Processing</i>, 2022.
   
-
-<!-- Item: FFT-DFISTA -->
-<li ><p>
-<b>Drowning Detection Based on Video Anomaly Detection</b><br>
+<b>3. Drowning Detection Based on Video Anomaly Detection</b><br>
 
 <i>International Conference on Image and Graphics</i>, 2021.
-
-
+  
 Patents
-======
-<ol class="biblist">
-<!-- Item: NGDME -->
-<li ><p>
-<b>基于无监督异常检测的溺水检测方法及装置</b>, 2021.09.
+=====
+<b>1. 基于无监督异常检测的溺水检测方法及装置</b>, 2021.09.
   
-  <!-- Item: FFT-DFISTA -->
-<li ><p>
-<b>游泳者溺水检测方法</b>, 2021.03.
+<b>2. 游泳者溺水检测方法</b>, 2021.03.
   
-  <!-- Item: FFT-DFISTA -->
-<li ><p>
-<b>水下自拍系统</b>, 2020.09.
-</ol>
+<b>3. 水下自拍系统</b>, 2020.09.
