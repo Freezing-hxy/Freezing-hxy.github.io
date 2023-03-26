@@ -19,7 +19,7 @@ Major Awards
 * National Scholarship(Master), 2021.
 * Three Good Students of Xiamen University, 2021.
 * National Third Prize of China Graduate Artificial Intelligence Innovation Competition, 2021.
-* Huawei Scholarship of Xiamen University,2020.
+* Huawei Scholarship of Xiamen University, 2020.
 * National Second Prize and Best Paper Award of China Graduate Electronic Design Competition, 2020.
 
 Academic Papers
