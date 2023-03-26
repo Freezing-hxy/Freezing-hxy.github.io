@@ -45,7 +45,6 @@ Academic Papers
 
 <i>International Conference on Image and Graphics</i>, 2021.
 
-</ol>
 
 Patents
 ======
