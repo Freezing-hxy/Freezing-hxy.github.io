@@ -1,13 +1,13 @@
 ---
 permalink: /
-title: "Xinyu He's Homepage"
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-I am currently an business analyst in the Safety and Security Department, Societe Generale Head Office, Fuzhou, China. I received my  master's degree in 2022 from Xiamen University. I am also the member of Key Laboratory of Underwater AcousticCommunication and Marine InformationTechnology, Xiamen University. My email is hexinyu@cib.com.cn.
+   I am currently an business analyst in the Safety and Security Department, Societe Generale Head Office, Fuzhou, China. I received my  master's degree in 2022 from Xiamen University. I am also the member of Key Laboratory of Underwater AcousticCommunication and Marine InformationTechnology, Xiamen University. My email is hexinyu@cib.com.cn.
 
 A data-driven personal website
 ======
