@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am currently a business analyst in the Security Department, Industrial Bank Head Office, Fuzhou, China. I received my  master's degree in 2022 from Xiamen University. I am also the member of Key Laboratory of Underwater AcousticCommunication and Marine InformationTechnology, Xiamen University. My email is hexinyu@cib.com.cn.
+&emsp; I am currently a business analyst in the Security Department, Industrial Bank Head Office, Fuzhou, China. I received my  master's degree in 2022 from Xiamen University. I am also the member of Key Laboratory of Underwater AcousticCommunication and Marine InformationTechnology, Xiamen University. My email is hexinyu@cib.com.cn.
 
 Research Interests
 ======
@@ -52,4 +52,13 @@ Patents
 <ol class="biblist">
 <!-- Item: NGDME -->
 <li ><p>
-<b>基于无监督异常检测的溺水检测方法及装置</b>, 2021.
+<b>基于无监督异常检测的溺水检测方法及装置</b>, 2021.09.
+  
+  <!-- Item: FFT-DFISTA -->
+<li ><p>
+<b>游泳者溺水检测方法</b>, 2021.03.
+  
+  <!-- Item: FFT-DFISTA -->
+<li ><p>
+<b>水下自拍系统</b>, 2020.09.
+</ol>
