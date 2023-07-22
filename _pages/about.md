@@ -15,6 +15,7 @@ My research interests are mainly in anti-fraud rule model, machine learning, ima
 
 Major Awards
 ======
+* Third prize of Industrial Bank Case Competition，2023.
 * Outstanding Graduates of Xiamen University, 2022.
 * National Scholarship(Master), 2021.
 * Three Good Students of Xiamen University, 2021.
