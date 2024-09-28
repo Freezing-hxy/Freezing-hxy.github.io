@@ -30,15 +30,15 @@ Academic Papers
 ======
 <b>1. A Video System Based on Convolutional Autoencoder for Drowning Detection</b><br>
  
-<i>Neural Computing and Applications</i>, 2022.
+<i>Neural Computing and Applications</i>, 2022. [Link](https://link.springer.com/article/10.1007/s00521-023-08526-9)
 
 <b>2. A Video Drowning Detection Device Based on Underwater Computer Vision</b><br>
 
-<i>IET Image Processing</i>, 2022.
+<i>IET Image Processing</i>, 2022. [Link](https://ietresearch.onlinelibrary.wiley.com/doi/10.1049/ipr2.12765)
   
 <b>3. Drowning Detection Based on Video Anomaly Detection</b><br>
 
-<i>International Conference on Image and Graphics</i>, 2021.
+<i>International Conference on Image and Graphics</i>, 2021. [Link](https://link.springer.com/chapter/10.1007/978-3-030-87361-5_57)
   
 Patents
 =====
